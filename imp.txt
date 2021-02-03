@@ -1,0 +1,3 @@
+// $col = collect(['user_id' => $this->likes]);
+// return $col->contains('user_id', $user->id);
+// return collect([$this->likes])->contains('user_id', $user->id);
